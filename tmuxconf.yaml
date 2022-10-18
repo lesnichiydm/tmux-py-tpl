@@ -1,0 +1,9 @@
+session_name: 'prj_name'
+windows:
+- window_name: vim
+  panes: 
+    - nvim
+- window_name: zsh
+  focus: True
+  panes:
+    - blank
